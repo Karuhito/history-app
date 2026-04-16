@@ -13,6 +13,7 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
+      "bundleIdentifier": "com.karuhito.historyapp",
       "supportsTablet": true
     },
     "android": {
